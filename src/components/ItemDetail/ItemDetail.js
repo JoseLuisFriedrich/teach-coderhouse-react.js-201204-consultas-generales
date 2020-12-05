@@ -15,7 +15,7 @@ const ItemDetail = ({ product }) => {
 
   const addProductToCart1 = () => {
     addProduct({ id: 1, name: 'product1' }, quantity)
-    //ctx.AddProduct
+    //ctx.addProduct
   }
 
   const addProductToCart2 = () => {
